@@ -27,22 +27,19 @@ A classe `ContaBancaria` possui as seguintes funcionalidades:
    java ContaBancaria
 
 5. Você verá exemplos de uso da classe `ContaBancaria` no método `main`. Sinta-se à vontade para modificá-los ou adicionar mais testes.
-```
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
-
-```
 ## Instruções:
-
 Complete os métodos depositar, sacar e getSaldo.
 No método main, crie uma instância da classe ContaBancaria, deposite um valor, faça um saque e imprima o saldo resultante.
-Critérios de Avaliação:
 
+## Critérios de Avaliação:
 Correção da lógica implementada nos métodos.
 Tratamento adequado de erros (por exemplo, sacar mais do que o saldo disponível).
 Estruturação do código e boas práticas de programação.
 
 ```
+
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
