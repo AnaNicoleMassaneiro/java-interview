@@ -15,9 +15,7 @@ A classe `ContaBancaria` possui as seguintes funcionalidades:
 
 1. Clone este repositório para sua máquina local:
 
-   ```
    git clone https://github.com/AnaNicoleMassaneiro/java-interview.git
-   ```
 
 2. Abra o projeto em sua IDE Java preferida.
 
@@ -25,15 +23,26 @@ A classe `ContaBancaria` possui as seguintes funcionalidades:
 
 4. Compile e execute o código. Você pode fazer isso através da sua IDE ou usando comandos no terminal:
 
-   ```
    javac ContaBancaria.java
    java ContaBancaria
-   ```
 
 5. Você verá exemplos de uso da classe `ContaBancaria` no método `main`. Sinta-se à vontade para modificá-los ou adicionar mais testes.
+```
 
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
-```
 
+
+```
+## Instruções:
+
+Complete os métodos depositar, sacar e getSaldo.
+No método main, crie uma instância da classe ContaBancaria, deposite um valor, faça um saque e imprima o saldo resultante.
+Critérios de Avaliação:
+
+Correção da lógica implementada nos métodos.
+Tratamento adequado de erros (por exemplo, sacar mais do que o saldo disponível).
+Estruturação do código e boas práticas de programação.
+
+```
